@@ -4,6 +4,7 @@
     "email": "muaz.developments@example.com"
   },
   "records": {
-    "CNAME": "portfolio-beta-topaz-25.vercel.app"
+    "CNAME": "portfolio-beta-topaz-25.vercel.app",
+    "TXT": ["vc-domain-verify=muazali.is-a.dev,d2e9f4e47c0bb29dfbe6"]
   }
 }
